@@ -1,0 +1,4 @@
+aws_lb.test
+aws_lb_listener.listener
+aws_lb_target_group.test
+aws_lb_target_group_attachment.test
